@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { IrishComponent } from './irish/irish.component';
 import { EnglishComponent } from './english/english.component';
 import { FormsModule } from '@angular/forms';
+import { HalfService } from './services/half.service';
 
 @NgModule({
   declarations: [
